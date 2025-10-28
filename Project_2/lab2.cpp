@@ -1,5 +1,3 @@
-// Лабораторная работа № 2 Вариант 1
-
 #include <iostream>
 
 using namespace std;
