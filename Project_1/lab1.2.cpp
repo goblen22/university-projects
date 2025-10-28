@@ -1,5 +1,3 @@
-// Лабораторная работа № 2 
-
 #include <iostream>
 #include <cmath>
 #include <iomanip>
